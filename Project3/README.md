@@ -1,1 +1,1 @@
-This is my 3rd Project in my 1260 Fall 2025 course. It is a simulation of the war card game.
+This is my 3rd Project in my 1260 Fall 2025 course. I made a website to play the war card game. I'm still in the middle of fixing it so that it is playable, but this is what I submitted to my professor.
